@@ -1,0 +1,120 @@
+body
+{
+    background-color: rgb(223, 170, 210)
+}
+
+
+#header
+{
+    color: rgb(158, 19, 100);
+    /*font-family: 'Open Sans', sans-serif;*/
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2
+{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: rgb(184, 73, 128);
+}
+
+#list
+{
+    list-style-type: none;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    
+    color: rgb(109, 14, 62);
+    font-size: 25px;
+}
+
+.list-div
+{
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto 10px;
+    /*border-radius: 25px;*/
+}
+
+#lis
+{
+    background-color: rgb(212, 235, 255);
+    
+}
+
+#rem
+{
+    background-color: rgb(212, 213, 255);
+    display: block;
+    
+}
+
+#removed
+{
+    list-style-type: none;
+    font-family: 'Lato', sans-serif;
+    position:relative;
+    
+    color: rgb(128, 79, 103);
+    font-size: 25px;
+}
+
+input[type=text]
+{
+    margin: auto;
+    display: block;
+}
+
+#Enter
+{
+    /*max-width: 300px;*/
+    /*padding: 30px;*/
+    margin: 0 auto 10px;
+    display: block;
+    border: none;
+    
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(129, 50, 103);
+    /*border-radius: 25px;*/
+}
+
+#Enter:hover
+{
+    background-color: rgb(92, 45, 76);
+}
+
+.del-button
+{
+    
+    border-radius: 25px;
+
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(129, 50, 103);
+}
+
+#app
+{
+    background-color: rgb(255, 240, 255);
+    box-shadow: 10px, 5px, 5px, rgb(2, 2, 2);
+    /*border-radius: 25px;*/
+}
+
+div, button
+{
+    border-radius: 25px;
+}
+
+
+
+
+
+
+
+/*work on appearance
+/*make custom checkboxes
+/*adjust font (type, size, and color)
+/*center application
+/*at least two different colors for the background
+/*alter style of the removed list in order to better distinguish the two lists
